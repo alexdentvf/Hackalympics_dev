@@ -43,8 +43,8 @@
     },
     {
         "entityRef": {
-          "kind": "api",
-          "name": "hello-world"
+          "kind": "repo",
+          "name": "example_repo"
         },
         "scorePercent": 55,
         "scoreLabel": "Yellow",
