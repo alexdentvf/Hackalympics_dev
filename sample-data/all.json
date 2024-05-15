@@ -362,7 +362,7 @@
     {
         "entityRef": {
           "kind": "repo",
-          "name": "example_repo"
+          "name": "example-repo"
         },
         "generatedDateTimeUtc": "2021-07-22 10:00",
         "scorePercent": 20,
