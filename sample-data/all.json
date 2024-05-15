@@ -42,48 +42,6 @@
       ]
     },
     {
-        "entityRef": {
-          "kind": "repo",
-          "name": "example_repo"
-        },
-        "scorePercent": 55,
-        "scoreLabel": "Yellow",
-        "scoringReviewDate": "2022-01-01T08:00:00Z",
-        "scoreSuccess": "almost-failure",
-        "areaScores": [
-          {
-            "title": "Code",
-            "scorePercent": 58,
-            "scoreLabel": "Green",
-            "scoreSuccess": "success"
-          },
-          {
-            "title": "Documentation",
-            "scorePercent": 61,
-            "scoreLabel": "Red",
-            "scoreSuccess": "failure"
-          },
-          {
-            "title": "Operations",
-            "scorePercent": 100,
-            "scoreLabel": "Green",
-            "scoreSuccess": "success"
-          },
-          {
-            "title": "Quality",
-            "scorePercent": 50,
-            "scoreLabel": "Yellow",
-            "scoreSuccess": "almost-failure"
-          },
-          {
-            "title": "Security",
-            "scorePercent": 50,
-            "scoreLabel": "Yellow",
-            "scoreSuccess": "almost-failure"
-          }
-        ]
-      },
-    {
       "entityRef": {
         "kind": "system",
         "name": "non-valid-system"
@@ -401,6 +359,48 @@
         }
       ]
     },
+    {
+        "entityRef": {
+          "kind": "repo",
+          "name": "example_repo"
+        },
+        "scorePercent": 55,
+        "scoreLabel": "Yellow",
+        "scoringReviewDate": "2022-01-01T08:00:00Z",
+        "scoreSuccess": "almost-failure",
+        "areaScores": [
+          {
+            "title": "Code",
+            "scorePercent": 58,
+            "scoreLabel": "Green",
+            "scoreSuccess": "success"
+          },
+          {
+            "title": "Documentation",
+            "scorePercent": 61,
+            "scoreLabel": "Red",
+            "scoreSuccess": "failure"
+          },
+          {
+            "title": "Operations",
+            "scorePercent": 100,
+            "scoreLabel": "Green",
+            "scoreSuccess": "success"
+          },
+          {
+            "title": "Quality",
+            "scorePercent": 50,
+            "scoreLabel": "Yellow",
+            "scoreSuccess": "almost-failure"
+          },
+          {
+            "title": "Security",
+            "scorePercent": 50,
+            "scoreLabel": "Yellow",
+            "scoreSuccess": "almost-failure"
+          }
+        ]
+      },
     {
       "entityRef": {
         "kind": "system",
