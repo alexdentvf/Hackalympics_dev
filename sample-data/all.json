@@ -364,20 +364,20 @@
           "kind": "repo",
           "name": "example_repo"
         },
-        "scorePercent": 55,
+        "scorePercent": 20,
         "scoreLabel": "Yellow",
         "scoringReviewDate": "2022-01-01T08:00:00Z",
         "scoreSuccess": "almost-failure",
         "areaScores": [
           {
             "title": "Code",
-            "scorePercent": 58,
+            "scorePercent": 20,
             "scoreLabel": "Green",
             "scoreSuccess": "success"
           },
           {
             "title": "Documentation",
-            "scorePercent": 61,
+            "scorePercent": 20,
             "scoreLabel": "Red",
             "scoreSuccess": "failure"
           },
@@ -400,7 +400,7 @@
             "scoreSuccess": "almost-failure"
           }
         ]
-      },
+    },
     {
       "entityRef": {
         "kind": "system",
