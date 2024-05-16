@@ -362,7 +362,7 @@
     {
       "entityRef": {
         "kind": "system",
-        "name": "SonarQube Tool"
+        "name": "sonarqube"
       },
       "generatedDateTimeUtc": "2021-07-22 10:00",
       "scorePercent": 57,
