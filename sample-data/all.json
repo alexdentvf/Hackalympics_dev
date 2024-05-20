@@ -351,7 +351,7 @@
     "generatedDateTimeUtc": "2021-07-22 10:00",
     "scorePercent": 64,
     "scoringReviewer": "Guest",
-    "scoringReviewDate": "2022-20-05T08:00:00Z",
+    "scoringReviewDate": "2022-05-20T08:00:00Z",
     "scoreSuccess": "almost-success",
     "areaScores": [
       {
@@ -659,7 +659,7 @@
     "generatedDateTimeUtc": "2021-07-22 10:00",
     "scorePercent": 56,
     "scoringReviewer": "Guest",
-    "scoringReviewDate": "2022-15-05T08:00:00Z",
+    "scoringReviewDate": "2022-05-15T08:00:00Z",
     "scoreSuccess": "partial",
     "areaScores": [
       {
@@ -967,7 +967,7 @@
     "generatedDateTimeUtc": "2021-07-22 10:00",
     "scorePercent": 59,
     "scoringReviewer": "Guest",
-    "scoringReviewDate": "2022-21-05T08:00:00Z",
+    "scoringReviewDate": "2022-05-21T08:00:00Z",
     "scoreSuccess": "partial",
     "areaScores": [
       {
@@ -1275,7 +1275,7 @@
     "generatedDateTimeUtc": "2021-07-22 10:00",
     "scorePercent": 66,
     "scoringReviewer": "Guest",
-    "scoringReviewDate": "2022-09-05T08:00:00Z",
+    "scoringReviewDate": "2022-05-09T08:00:00Z",
     "scoreSuccess": "almost-success",
     "areaScores": [
       {
@@ -1583,7 +1583,7 @@
     "generatedDateTimeUtc": "2021-07-22 10:00",
     "scorePercent": 49,
     "scoringReviewer": "Guest",
-    "scoringReviewDate": "2022-12-05T08:00:00Z",
+    "scoringReviewDate": "2022-05-12T08:00:00Z",
     "scoreSuccess": "partial",
     "areaScores": [
       {
@@ -1891,7 +1891,7 @@
       "generatedDateTimeUtc": "2021-07-22 10:00",
       "scorePercent": 67,
       "scoringReviewer": "Guest",
-      "scoringReviewDate": "2022-20-05T08:00:00Z",
+      "scoringReviewDate": "2022-05-20T08:00:00Z",
       "scoreSuccess": "almost-success",
       "areaScores": [
         {
@@ -2200,7 +2200,7 @@
     "scorePercent": 50,
     "scoreSuccess": "partial",
     "scoringReviewer": "Guest",
-    "scoringReviewDate": "2022-21-05T08:00:00Z",
+    "scoringReviewDate": "2022-05-21T08:00:00Z",
     "areaScores": [
       {
         "id": 2199,
