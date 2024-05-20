@@ -6,7 +6,7 @@
     },
     "scorePercent": 65,
     "scoringReviewDate": "2022-01-01T08:00:00Z",
-    "scoreSuccess": "almost-failure",
+    "scoreSuccess": "almost-success",
     "areaScores": [
       {
         "title": "Code",
@@ -16,7 +16,7 @@
       {
         "title": "Documentation",
         "scorePercent": 25,
-        "scoreSuccess": "failure"
+        "scoreSuccess": "almost-failure"
       },
       {
         "title": "Operations",
@@ -26,12 +26,12 @@
       {
         "title": "Quality",
         "scorePercent": 50,
-        "scoreSuccess": "almost-failure"
+        "scoreSuccess": "partial"
       },
       {
         "title": "Security",
         "scorePercent": 50,
-        "scoreSuccess": "almost-failure"
+        "scoreSuccess": "partial"
       }
     ]
   },
@@ -352,13 +352,13 @@
     "scorePercent": 64,
     "scoringReviewer": "Guest",
     "scoringReviewDate": "2022-01-04T08:00:00Z",
-    "scoreSuccess": "partial",
+    "scoreSuccess": "almost-success",
     "areaScores": [
       {
         "id": 2199,
         "title": "Code",
         "scorePercent": 70,
-        "scoreSuccess": "success",
+        "scoreSuccess": "almost-success",
         "scoreEntries": [
           {
             "id": 2157,
@@ -401,7 +401,7 @@
         "id": 3937,
         "title": "Documentation",
         "scorePercent": 45,
-        "scoreSuccess": "almost-success",
+        "scoreSuccess": "partial",
         "scoreEntries": [
           {
             "id": 3938,
@@ -465,7 +465,7 @@
         "id": 2208,
         "title": "Operations",
         "scorePercent": 79,
-        "scoreSuccess": "partial",
+        "scoreSuccess": "almost-success",
         "scoreEntries": [
           {
             "id": 2210,
@@ -581,7 +581,7 @@
         "id": 4333,
         "title": "Quality",
         "scorePercent": 75,
-        "scoreSuccess": "almost-failure",
+        "scoreSuccess": "almost-success",
         "scoreEntries": [
           {
             "id": 2187,
@@ -638,7 +638,7 @@
         "id": 4328,
         "title": "Security",
         "scorePercent": 52,
-        "scoreSuccess": "failure",
+        "scoreSuccess": "partial",
         "scoreEntries": [
           {
             "id": 2158,
@@ -666,7 +666,7 @@
         "id": 2199,
         "title": "Code",
         "scorePercent": 72,
-        "scoreSuccess": "success",
+        "scoreSuccess": "almost-success",
         "scoreEntries": [
           {
             "id": 2157,
@@ -709,7 +709,7 @@
         "id": 3937,
         "title": "Documentation",
         "scorePercent": 40,
-        "scoreSuccess": "almost-success",
+        "scoreSuccess": "partial",
         "scoreEntries": [
           {
             "id": 3938,
@@ -773,7 +773,7 @@
         "id": 2208,
         "title": "Operations",
         "scorePercent": 86,
-        "scoreSuccess": "partial",
+        "scoreSuccess": "success",
         "scoreEntries": [
           {
             "id": 2210,
@@ -889,7 +889,7 @@
         "id": 4333,
         "title": "Quality",
         "scorePercent": 45,
-        "scoreSuccess": "almost-failure",
+        "scoreSuccess": "partial",
         "scoreEntries": [
           {
             "id": 2187,
@@ -946,7 +946,7 @@
         "id": 4328,
         "title": "Security",
         "scorePercent": 35,
-        "scoreSuccess": "failure",
+        "scoreSuccess": "almost-failure",
         "scoreEntries": [
           {
             "id": 2158,
@@ -1017,7 +1017,7 @@
         "id": 3937,
         "title": "Documentation",
         "scorePercent": 45,
-        "scoreSuccess": "almost-success",
+        "scoreSuccess": "partial",
         "scoreEntries": [
           {
             "id": 3938,
@@ -1197,7 +1197,7 @@
         "id": 4333,
         "title": "Quality",
         "scorePercent": 75,
-        "scoreSuccess": "almost-failure",
+        "scoreSuccess": "almost-success",
         "scoreEntries": [
           {
             "id": 2187,
@@ -1254,7 +1254,7 @@
         "id": 4328,
         "title": "Security",
         "scorePercent": 35,
-        "scoreSuccess": "failure",
+        "scoreSuccess": "almost-failure",
         "scoreEntries": [
           {
             "id": 2158,
@@ -1276,13 +1276,13 @@
     "scorePercent": 66,
     "scoringReviewer": "Guest",
     "scoringReviewDate": "2022-01-04T08:00:00Z",
-    "scoreSuccess": "partial",
+    "scoreSuccess": "almost-success",
     "areaScores": [
       {
         "id": 2199,
         "title": "Code",
         "scorePercent": 45,
-        "scoreSuccess": "success",
+        "scoreSuccess": "partial",
         "scoreEntries": [
           {
             "id": 2157,
@@ -1325,7 +1325,7 @@
         "id": 3937,
         "title": "Documentation",
         "scorePercent": 89,
-        "scoreSuccess": "almost-success",
+        "scoreSuccess": "success",
         "scoreEntries": [
           {
             "id": 3938,
@@ -1389,7 +1389,7 @@
         "id": 2208,
         "title": "Operations",
         "scorePercent": 75,
-        "scoreSuccess": "partial",
+        "scoreSuccess": "almost-success",
         "scoreEntries": [
           {
             "id": 2210,
@@ -1505,7 +1505,7 @@
         "id": 4333,
         "title": "Quality",
         "scorePercent": 56,
-        "scoreSuccess": "almost-failure",
+        "scoreSuccess": "partial",
         "scoreEntries": [
           {
             "id": 2187,
@@ -1562,7 +1562,7 @@
         "id": 4328,
         "title": "Security",
         "scorePercent": 66,
-        "scoreSuccess": "failure",
+        "scoreSuccess": "almost-success",
         "scoreEntries": [
           {
             "id": 2158,
@@ -1590,7 +1590,7 @@
         "id": 2199,
         "title": "Code",
         "scorePercent": 45,
-        "scoreSuccess": "success",
+        "scoreSuccess": "partial",
         "scoreEntries": [
           {
             "id": 2157,
@@ -1697,7 +1697,7 @@
         "id": 2208,
         "title": "Operations",
         "scorePercent": 75,
-        "scoreSuccess": "partial",
+        "scoreSuccess": "almost-success",
         "scoreEntries": [
           {
             "id": 2210,
@@ -1870,7 +1870,7 @@
         "id": 4328,
         "title": "Security",
         "scorePercent": 35,
-        "scoreSuccess": "failure",
+        "scoreSuccess": "almost-failure",
         "scoreEntries": [
           {
             "id": 2158,
@@ -1892,7 +1892,7 @@
       "scorePercent": 67,
       "scoringReviewer": "Guest",
       "scoringReviewDate": "2022-01-04T08:00:00Z",
-      "scoreSuccess": "partial",
+      "scoreSuccess": "almost-success",
       "areaScores": [
         {
           "id": 2199,
@@ -2005,7 +2005,7 @@
           "id": 2208,
           "title": "Operations",
           "scorePercent": 65,
-          "scoreSuccess": "partial",
+          "scoreSuccess": "almost-success",
           "scoreEntries": [
             {
               "id": 2210,
@@ -2121,7 +2121,7 @@
           "id": 4333,
           "title": "Quality",
           "scorePercent": 48,
-          "scoreSuccess": "almost-failure",
+          "scoreSuccess": "partial",
           "scoreEntries": [
             {
               "id": 2187,
@@ -2178,7 +2178,7 @@
           "id": 4328,
           "title": "Security",
           "scorePercent": 62,
-          "scoreSuccess": "failure",
+          "scoreSuccess": "almost-success",
           "scoreEntries": [
             {
               "id": 2158,
@@ -2198,7 +2198,6 @@
     },
     "generatedDateTimeUtc": "2021-07-22 10:00",
     "scorePercent": 50,
-    "scoreLabel": "C",
     "scoreSuccess": "partial",
     "scoringReviewer": "Guest",
     "scoringReviewDate": "2022-01-04T08:00:00Z",
@@ -2207,7 +2206,6 @@
         "id": 2199,
         "title": "Code",
         "scorePercent": 90,
-        "scoreLabel": "A",
         "scoreSuccess": "success",
         "scoreEntries": [
           {
@@ -2253,7 +2251,6 @@
         "id": 3937,
         "title": "Documentation",
         "scorePercent": 75,
-        "scoreLabel": "B+",
         "scoreSuccess": "almost-success",
         "scoreEntries": [
           {
@@ -2318,7 +2315,6 @@
         "id": 2208,
         "title": "Operations",
         "scorePercent": 50,
-        "scoreLabel": "D",
         "scoreSuccess": "partial",
         "scoreEntries": [
           {
@@ -2435,7 +2431,6 @@
         "id": 4333,
         "title": "Quality",
         "scorePercent": 25,
-        "scoreLabel": "F",
         "scoreSuccess": "almost-failure",
         "scoreEntries": [
           {
@@ -2493,7 +2488,6 @@
         "id": 4328,
         "title": "Security",
         "scorePercent": 10,
-        "scoreLabel": "F",
         "scoreSuccess": "failure",
         "scoreEntries": [
           {
